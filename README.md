@@ -4,18 +4,4 @@ This repository is meant to provide an example for *forking* a repository on Git
 
 Creating a *fork* is producing a personal copy of someone else's project. Forks act as a sort of bridge between the original repository and your personal copy. You can submit *Pull Requests* to help make other people's projects better by offering your changes up to the original project. Forking is at the core of social coding at GitHub.
 
-After forking this repository, you can make some changes to the project, and submit [a Pull Request](https://github.com/octocat/Spoon-Knife/pulls) as practice.
-
-For some more information on how to fork a repository, [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Thanks! :sparkling_heart:
-## Git Collaboration Practice
-
-This section demonstrates the fork-and-pull request workflow.
-
-### Steps
-1. Fork the repository.
-2. Clone the repository.
-3. Create a feature branch.
-4. Make changes and commit them.
-5. Push changes to GitHub.
-6. Create a pull request for review.
-This project demonstrates collaborative Git development.
+This project demonstrates teamwork and collaborative development.
