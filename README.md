@@ -18,3 +18,4 @@ This section demonstrates the fork-and-pull request workflow.
 4. Make changes and commit them.
 5. Push changes to GitHub.
 6. Create a pull request for review.
+This project demonstrates collaborative Git development.
